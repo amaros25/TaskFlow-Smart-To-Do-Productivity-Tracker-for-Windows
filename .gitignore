@@ -1,0 +1,22 @@
+# Ignore build artifacts
+build/
+dist/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments (optional but recommended)
+venv/
+.env/
+
+# Ignore temporary files
+*.log
+*.tmp
+*.bak
+
+# Ignore IDE-specific files (optional)
+.vscode/
+.idea/
